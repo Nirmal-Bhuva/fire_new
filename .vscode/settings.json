@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/linux",
+    "java.project.sourcePaths": [
+        "lib/entity/student_module/camara_count"
+    ]
+}
